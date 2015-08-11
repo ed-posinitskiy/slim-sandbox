@@ -1,0 +1,4 @@
+home:
+  route: '/'
+  controller: 'App\Controller\IndexController'
+  action: 'index'
